@@ -1,0 +1,7 @@
+1. You mention wanting a visualization for trends in Summer 2015. Do you also want the ability to see trends for different time periods in the same visualization?
+
+2. You mention estimating demand through different means. What other variables can we use to estimate/predict demand?
+
+3. Are there any Nice-To-Have features you want incorporated into the dashboard?
+
+4. What metrics will we look at to tell if the dashboard is successful?
